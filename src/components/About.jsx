@@ -10,38 +10,106 @@ const About = () => {
         I’m always curious to learn, grow, and contribute. I believe in writing clean code, working with great teams, and continuously improving as a developer.
         </p>
 <br/>
-      <h1 className='text-red-800 font-semibold text-xl'>Education & Training</h1>
+      <h1 className='text-red-800 font-semibold text-xl'>🎓 Education & Training</h1>
       <div>
+       <p>
         [MCA] [Trident Academy of Creative Technology] [2023-25],
-        [B.Sc] [Shree Jagannath Mahavidyalaya] [2019-22],
-        [CHSC] [Udayanath Autonomous College Of Science & Technology] [2017-19],
-        [10th] [Angeswarpada Highschool] [2016-17]
+      </p> 
+        <p>
+          [B.Sc] [Shree Jagannath Mahavidyalaya] [2019-22],
+        </p>
+        <p>
+          [CHSC] [Udayanath Autonomous College Of Science & Technology] [2017-19],
+        </p>
+        <p>
+          [10th] [Angeswarpada Highschool] [2016-17]
+        </p>
       </div>
 <br/>
-      <h1 className='text-red-800 font-semibold text-xl'>Skills & Expertise</h1>
+      <h1 className='text-red-800 font-semibold text-xl'>💻 Skills & Expertise</h1>
       <div>
-        Proficient in  [Core Java] ,
-        Experienced with [HTML] [CSS] [JavaScript] [React.js] [MERN Stack],
-        Strong graps of [Frontend Technologies],
-        Excellent problem solving skills , Effective communication and collaborator
+        <h1 className='font-semibold'>🔹 Frontend Development</h1>
+        <p>
+          HTML, CSS, JavaScript,
+
+           React.js, Tailwind CSS,
+
+           Responsive Design, UI/UX Focus
+        </p>
+           
+        <h1 className='font-semibold'>🔹 Backend Development</h1>
         
+           <p>
+             Node.js, Express.js,
+
+            MongoDB,
+
+            RESTful API Integration
+           </p>
+
+        <h1 className='font-semibold'>🔹 Programming Languages</h1>
+            <p>
+             Core Java,
+
+            C,
+
+            JavaScript
+            </p>
+        <h1 className='font-semibold'>🔹 Database & Tools</h1>
+        
+           <p>
+            SQL, MySQL,
+
+           Git & GitHub,
+
+           Postman,
+
+           Vite, Visual Studio Code
+           </p>
+        <h1 className='font-semibold'>🔹 Other Skills</h1>
+        
+          <p>
+             Problem Solving,
+
+            Time Management,
+
+            Communication Skills,
+
+            Team Collaboration
+
+          </p>
+
       </div>
 <br/>
       <h1 className='text-red-800 font-semibold text-xl'>Professional Experience</h1>
       <div>
-        [Job Title], [Company/Organization], [Dates] 
-        [Brief description of responsibilities and achievements]  [Job Title],
-         [Company/Organization],
-         [Dates] [Brief description of responsibilities and achievements] [Freelance/Contract Work],
-          [Client/Organization], [Dates] [Brief description of projects and contributions]
+        <p>
+          🧩 Self-Initiated Projects
+          • Developed multiple frontend and full-stack projects using React.js, Node.js, and MongoDB.
+          • Focused on building real-world apps like 📚 Book Store, Portfolio Website, and Dashbord.
+          • Hands-on experience with REST APIs, responsive design, version control (Git), and deployment platforms like Vercel.
+
+        </p>
+          <p>
+          🧪 Academic Exposure
+          • Gained practical experience through academic projects and internal hackathons.
+          • Built applications from scratch by understanding user flow, UI/UX, and backend logic.
+
+          </p>
       </div>
 
 <br/>
     <h1 className='text-red-800 font-semibold text-xl'>Achievements & Awards</h1>
         <div>
-         [Rank-624] [ Odisha Joint Entrance Examination] [2023],
-          [Hackathon Certification] [Trident Academy of Creative Technology] [2023-24]
-
+         <p>
+         • 🏁 Ranked 624 in OJEE, showcasing strong academic performance.
+        </p>
+        <p>
+        • 💡 Participated in college-level and internal hackathons, developing functional apps under time constraints and learning to work in a team.
+        </p>
+        <p>
+        • 🔄 Adaptable to different technologies and passionate about problem-solving and UI/UX design.
+         </p>
         </div>
 <br/>
      <h1 className='text-red-800 font-semibold text-xl'>Mission Statement</h1>
